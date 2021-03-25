@@ -1,0 +1,185 @@
+.benButton{
+    letter-spacing: 0.5px;
+    text-transform: normal;
+    justify-self: center;
+    height: 80px;
+    width: 350px;
+    background-color: #FFDC00;
+    border-radius: 0px;
+    transform: rotate(0deg) skew(0deg);
+    -webkit-transform: rotate(0deg) skew(0deg);
+    cursor: pointer;
+    font-size: 15px;
+    font-family: arial;
+    font-weight: bolder;
+    border: 0px solid #ccc;
+    
+}
+
+.KlasseList {
+    min-height: 60vh;
+    width: 100%;
+    background-color: #FFDC00;
+}
+
+.benButton:hover{
+    box-shadow: 0 0 20px rgba(33,33,33,.2);
+}
+
+.introknapp{
+    display: grid;
+    gap: 25px;
+    grid-template-columns: repeat(2,auto);
+    margin-bottom: 100px;
+    width: 805px;
+}
+
+
+.applikasjon{
+    width: 1410px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin-top: -55px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  #Seksti {
+    float: left;
+    width: 50%;
+    background-color: #FFDC00;
+    padding-bottom: 75px;
+  }
+
+  #Forti {
+    float: left;
+    width: 50%;
+    padding: 0;
+  }
+
+  #Tjue {
+    float: left;
+    width: 300px;
+    padding: 0;
+    background: url(Elever.jpeg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 200px;
+  }
+
+  #MasterBilde {
+    float: left;
+    width: 300px;
+    padding: 0;
+    background: url(undervisning.jpeg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 200px;
+  }
+
+  #ObligFagBilde {
+    float: left;
+    width: 300px;
+    padding: 0;
+    background: url(Elever.jpeg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 200px;
+  }
+
+  #Atti {
+    float: left;
+    width: 710px;
+    padding: 0;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color: #FFDC00;
+    text-align: left;
+    margin-right: 200px;
+  }
+
+  #Left {
+    text-align: left;
+    line-height: 35px;
+  }
+
+  #Studieaar {
+    text-align: left;
+    line-height: 55px;
+    padding-right: 250px;
+    margin-top: -70px;
+    font-size: 40px;
+    text-decoration-color: black;
+  }
+
+  #AarBeskrivelse {
+    font-weight: 300;
+    font-family: Arial;
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+    padding-right: 45px;
+    padding-right: 150px;
+}
+
+  #Hundre {
+    float: center;
+    width: 1410px;
+    padding: 0;
+    margin-left: 265px;
+    margin-right: 265px;
+
+  }
+
+  .row {
+      margin-bottom: 100px;
+  }
+
+  #Space {
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+
+  #InnledningDiv {
+    width: 805px;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+
+  .InnledningKolonner {
+    width: 1400px;
+  }
+  
+  #InnledningKolonner {
+    width: 1400px;
+    margin-left: 0;
+  }
+
+  #Gul {
+    background-color: #FFDC00;
+  }
+
+  #Start {
+    margin-top: 150px;
+  }
+
+  ol {
+    margin-left: 25px;
+  }
+
+  li {
+    font-size: 18px;
+    line-height: 30px;
+    font-family: Arial;
+  }

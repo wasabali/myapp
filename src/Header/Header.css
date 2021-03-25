@@ -1,0 +1,27 @@
+.header {
+    height: 58vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 55px;
+    padding-bottom: 75px;
+    background-image: url("Bakgrunn.jpg");
+    background-repeat: no-repeat;
+    background-position: top-left;
+    background-size: cover;
+    background-color: #FFDC00;
+    background-image: Bakgrunn.jpg;
+    background-attachment: fixed;
+    font-family: Arial;
+    text-decoration: underline;
+    text-decoration-color: #FFDC00;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 3px;
+  }
+
+  img {
+    padding: 105px;
+    margin-top: -25px;
+    margin-bottom: 50px;
+
+  }

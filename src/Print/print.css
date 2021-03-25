@@ -1,0 +1,12 @@
+/* Kode som kan brukes til å skjule spesifikke elementer fra print */
+
+/* #print {
+    display: none;
+}
+@media print {
+    #print {
+        display: block;
+    }
+}
+
+*/

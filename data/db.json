@@ -1,0 +1,1147 @@
+{
+    "klasser": [
+      {
+      "id": 1,
+      "klassetrinn": "1-7",
+      "obligFag": [
+        {
+            "id": 1,
+            "semester": 1,
+            "fagnavn":"Norsk 1, emne 1",
+            "emnekode":"M1GNO1100",
+            "studiepoeng": 10
+        },
+        {
+            "id": 2,
+            "semester": 2,
+            "fagnavn":"Norsk 1, emne 2",
+            "emnekode":"M1GNO1200",
+            "studiepoeng": 10
+        },
+        {
+            "id": 3,
+            "semester": 3,
+            "fagnavn":"Norsk 1, emne 3",
+            "emnekode":"M1GNO1300",
+            "studiepoeng": 10
+        },
+        {
+            "id": 4,
+            "semester": 1,
+            "fagnavn":"Matematikk 1, emne 1",
+            "emnekode":"M1GMT1100",
+            "studiepoeng": 10
+        },
+        {
+            "id": 5,
+            "semester": 2,
+            "fagnavn":"Matematikk 1, emne 2",
+            "emnekode":"M1GMT1200",
+            "studiepoeng": 10
+        },
+        {
+            "id": 6,
+            "semester": 3,
+            "fagnavn":"Matematikk 1, emne 3",
+            "emnekode":"M1GMT1300",
+            "studiepoeng": 10
+        }],
+      
+      "masterFag": [
+        {
+            "id": 1,
+            "fag": "norsk",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 5,
+                    "fagnavn":"Norsk 2, emne 4",
+                    "emnekode":"M1GNO3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 7,
+                    "fagnavn":"Norsk og norskdidaktikk 1",
+                    "emnekode":"MGNO4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 8,
+                    "fagnavn":"Norsk og norskdidaktikk 2",
+                    "emnekode":"MGNO4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 9,
+                    "fagnavn":"Norsk og norskdidaktikk 3",
+                    "emnekode":"MGNO5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "fag": "matte",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 5,
+                    "fagnavn":"Matematikk 2, emne 4",
+                    "emnekode":"M1GMT3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 7,
+                    "fagnavn":"Matematikk og matematikkdidaktikk 1",
+                    "emnekode":"MGMT4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 8,
+                    "fagnavn":"Matematikk og matematikkdidaktikk 2",
+                    "emnekode":"MGMT4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 9,
+                    "fagnavn":"Matematikk og matematikkdidaktikk 3",
+                    "emnekode":"MGMT5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "fag": "begynneropplæring",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 7,
+                    "fagnavn":"Begynneropplæring 1",
+                    "emnekode":"M1GBO4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 8,
+                    "fagnavn":"Begynneropplæring 2",
+                    "emnekode":"M1GBO4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 9,
+                    "fagnavn":"Begynneropplæring 3",
+                    "emnekode":"M1GBO5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "fag": "engelsk",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Engelsk 1, emne 1",
+                    "emnekode":"M1GEN2100",
+                    "studiepoeng":15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"Engelsk 1, emne 2",
+                    "emnekode":"M1GEN2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"Engelsk 2, emne 3",
+                    "emnekode":"M1GEN3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Engelsk og engelskdidaktikk 1",
+                    "emnekode":"MGEN4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Engelsk og engelskdidaktikk 2",
+                    "emnekode":"MGEN4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Engelsk og engelskdidaktikk 3",
+                    "emnekode":"MGEN5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "fag": "KRLE",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"RLE 1, emne 1",
+                    "emnekode":"M1GRL2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"RLE 1, emne 2",
+                    "emnekode":"M1GRL2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"RLE 2, emne 3",
+                    "emnekode":"M1GRL3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": "4",
+                    "semester": "7",
+                    "fagnavn":"RLE og RLE-didaktikk 1",
+                    "emnekode":"MGRL4100",
+                    "studiepoeng":"15"
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"RLE og RLE-didaktikk 2",
+                    "emnekode":"MGRL4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"RLE og RLE-didaktikk 3",
+                    "emnekode":"MGRL5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "fag": "kroppsøving",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Kroppsøving 1, emne 1",
+                    "emnekode":"M1GKP2100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 5,
+                    "fagnavn":"Kroppsøving 2, emne 2",
+                    "emnekode":"M1GKP3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 3,
+                    "semester": 7,
+                    "fagnavn":"Kroppsøving og kroppsøvingsdidaktikk 1",
+                    "emnekode":"MGKP4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 8,
+                    "fagnavn":"Kroppsøving og kroppsøvingsdidaktikk 2",
+                    "emnekode":"MGKP4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 9,
+                    "fagnavn":"Kroppsøving og kroppsøvingsdidaktikk 3",
+                    "emnekode":"MGKP5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "fag": "KH",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Kunst og håndverk 1, emne 1",
+                    "emnekode":"MGKH2100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 5,
+                    "fagnavn":"Kunst og håndverk 2, emne 2",
+                    "emnekode":"MGKH3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 3,
+                    "semester": 7,
+                    "fagnavn":"Fagdidaktikk: kunst og håndverk",
+                    "emnekode":"MFAGL4000",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 8,
+                    "fagnavn":"Praktisk estetisk prosjekt",
+                    "emnekode":"MFAGL4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 9,
+                    "fagnavn":"Prosjektutvikling og undervisningspraksis",
+                    "emnekode":"MFAGL5000",
+                    "studiepoeng": 15
+                }
+
+            ]
+        },
+        {
+            "id": 8,
+            "fag": "musikk",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Musikk 1, emne 1",
+                    "emnekode":"M1GMU2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"Musikk 1, emne 2",
+                    "emnekode":"M1GMU2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"Musikk 2, emne 3",
+                    "emnekode":"M1GMU3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Musikk og musikkdidaktikk 1",
+                    "emnekode":"MGMU4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Musikk og musikkdidaktikk 2",
+                    "emnekode":"MGMU4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Musikk og musikkdidaktikk 3",
+                    "emnekode":"MGMU5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "fag": "naturfag",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Naturfag 1, emne 1",
+                    "emnekode":"M1GNA2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"Naturfag 1, emne 2",
+                    "emnekode":"M1GNA2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"Naturfag 2, emne 3",
+                    "emnekode":"M1GNA3100",
+                    "studiepoeng":30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Naturfag og naturfagdidaktikk 1",
+                    "emnekode":"MGNA4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Naturfag og naturfagdidaktikk 2",
+                    "emnekode":"MGNA4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Naturfag og naturfagdidaktikk 3",
+                    "emnekode":"MGNA5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "fag": "samfunnsfag",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Samfunnsfag 1, emne 1",
+                    "emnekode":"M1GSF2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"Samfunnsfag 1, emne 2",
+                    "emnekode":"M1GSF2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"Samfunnsfag 2, emne 3",
+                    "emnekode":"M1GSF3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Samfunnsfag og samfunnsfagdidaktikk 1",
+                    "emnekode":"MGSF4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Samfunnsfag og samfunnsfagdidaktikk 2",
+                    "emnekode":"MGSF4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Samfunnsfag og samfunnsfagdidaktikk 3",
+                    "emnekode":"MGSF5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "fag": "tegnspråk",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 5,
+                    "fagnavn":"Norsk tegnspråk 1",
+                    "emnekode":"MGNT3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 6,
+                    "fagnavn":"Norsk tegnspråk 2",
+                    "emnekode":"MGNT3200",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 3,
+                    "semester": 7,
+                    "fagnavn":"",
+                    "emnekode":"",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 8,
+                    "fagnavn":"",
+                    "emnekode":"",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 9,
+                    "fagnavn":"",
+                    "emnekode":"",
+                    "studiepoeng": 15
+                },
+            ]
+        },
+        {
+            "id": 12,
+            "fag": "prof_ped",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 6,
+                    "fagnavn":"Pedagogikk fordypning 1: Profesjonsrettet pedagogikk",
+                    "emnekode":"MGPE3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 9,
+                    "fagnavn":"Pedagogikk fordypning 2: Profesjonsrettet pedagogikk",
+                    "emnekode":"MGPE5100",
+                    "studiepoeng": 30
+                },
+
+            ]
+        },
+        {
+            "id": 13,
+            "fag": "dig_ped",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 6,
+                    "fagnavn":"Pedagogikk fordypning 1: Digitalt støttet pedagogikk",
+                    "emnekode":"MGPE3200",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 9,
+                    "fagnavn":"Pedagogikk fordypning 2: Digitalt støttet pedagogikk",
+                    "emnekode":"MGPE5200",
+                    "studiepoeng": 30
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "fag": "spes_ped",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 6,
+                    "fagnavn":"Pedagogikk fordypning 1: Spesialpedagogikk",
+                    "emnekode":"MGPE3300",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 9,
+                    "fagnavn":"Pedagogikk fordypning 2: Spesialpedagogikk",
+                    "emnekode":"MGPE5300",
+                    "studiepoeng": 30
+                }
+            ]
+        }]
+
+    },
+    {
+      "id": 2,
+      "klassetrinn": "5-10",
+      "obligFag": [
+        {
+            "id": 1,
+            "semester": 1,
+            "fagnavn":"Norsk, emne 1",
+            "emnekode":"M5GNO1100",
+            "studiepoeng": 15
+        },
+        {
+            "id": 2,
+            "semester": 1,
+            "fagnavn":"Norsk, emne 2",
+            "emnekode":"M5GNO1200",
+            "studiepoeng": 15
+        },
+        {
+            "id": 3,
+            "semester": 2,
+            "fagnavn":"Norsk, emne 2",
+            "emnekode":"M5GNO1200",
+            "studiepoeng": 15
+        },
+        {
+            "id": 4,
+            "semester": 2,
+            "fagnavn":"Norsk, emne 3",
+            "emnekode":"M5GNO1300",
+            "studiepoeng": 15
+        },
+        {
+            "id": 5,
+            "semester": 3,
+            "fagnavn":"Norsk, emne 4",
+            "emnekode":"M5GNO2100",
+            "studiepoeng": 15
+        },
+        {
+            "id": 6,
+            "semester": 1,
+            "fagnavn":"Matematikk, emne 1",
+            "emnekode":"M5GMT1100",
+            "studiepoeng": 15
+        },
+        {
+            "id": 7,
+            "semester": 1,
+            "fagnavn":"Matematikk, emne 2",
+            "emnekode":"M5GMT1200",
+            "studiepoeng": 15
+        },
+        {
+            "id": 8,
+            "semester": 2,
+            "fagnavn":"Matematikk, emne 2",
+            "emnekode":"M5GMT1200",
+            "studiepoeng": 15
+        },
+        {
+            "id": 9,
+            "semester": 2,
+            "fagnavn":"Matematikk, emne 3",
+            "emnekode":"M5GMT1300",
+            "studiepoeng":15
+        },
+        {
+            "id": 10,
+            "semester": 3,
+            "fagnavn":"Matematikk, emne 4",
+            "emnekode":"M5GEN2100",
+            "studiepoeng": 15
+        },
+        {
+            "id": 11,
+            "semester": 1,
+            "fagnavn":"Engelsk, emne 1",
+            "emnekode":"M5GEN1100",
+            "studiepoeng": 15
+        },
+        {
+            "id": 12,
+            "semester": 1,
+            "fagnavn":"Engelsk, emne 2",
+            "emnekode":"M5GEN1200",
+            "studiepoeng": 15
+        },
+        {
+            "id": 13,
+            "semester": 2,
+            "fagnavn":"Engelsk, emne 2",
+            "emnekode":"M5GEN1200",
+            "studiepoeng": 15
+        },
+        {
+            "id": 13,
+            "semester": 2,
+            "fagnavn":"Engelsk, emne 3",
+            "emnekode":"M5GEN1300",
+            "studiepoeng": 15
+        },
+        {
+            "id": 14,
+            "semester": 3,
+            "fagnavn":"Engelsk, emne 4",
+            "emnekode":"M5GEN2100",
+            "studiepoeng": 15
+        }],
+      
+      "masterFag": [
+        {
+            "id": 1,
+            "fag": "norsk",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 7,
+                    "fagnavn":"Norsk og norskdidaktikk 1",
+                    "emnekode":"MGNO4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 8,
+                    "fagnavn":"Norsk og norskdidaktikk 2",
+                    "emnekode":"MGNO4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 9,
+                    "fagnavn":"Norsk og norskdidaktikk 3",
+                    "emnekode":"MGNO5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "fag": "matte",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 7,
+                    "fagnavn":"Matematikk og matematikkdidaktikk 1",
+                    "emnekode":"MGMT4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 8,
+                    "fagnavn":"Matematikk og matematikkdidaktikk 2",
+                    "emnekode":"MGMT4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 9,
+                    "fagnavn":"Matematikk og matematikkdidaktikk 3",
+                    "emnekode":"MGMT5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "fag": "engelsk",
+            "muligheter": [
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Engelsk og engelskdidaktikk 1",
+                    "emnekode":"MGEN4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Engelsk og engelskdidaktikk 2",
+                    "emnekode":"MGEN4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Engelsk og engelskdidaktikk 3",
+                    "emnekode":"MGEN5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "fag": "KRLE",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"RLE 1, emne 1",
+                    "emnekode":"M5GRL2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"RLE 1, emne 2",
+                    "emnekode":"M5GRL2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"RLE 2, emne 3",
+                    "emnekode":"M5GRL3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"RLE og RLE-didaktikk 1",
+                    "emnekode":"MGRL4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"RLE og RLE-didaktikk 2",
+                    "emnekode":"MGRL4200",
+                    "studiepoeng":"15"
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"RLE og RLE-didaktikk 3",
+                    "emnekode":"MGRL5100",
+                    "studiepoeng":"15"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "fag": "kroppsøving",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Kroppsøving 1, emne 1",
+                    "emnekode":"M5GKP2100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 5,
+                    "fagnavn":"Kroppsøving 2, emne 2",
+                    "emnekode":"M5GKP3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 3,
+                    "semester": 7,
+                    "fagnavn":"Kroppsøving og kroppsøvingsdidaktikk 1",
+                    "emnekode":"MGKP4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 8,
+                    "fagnavn":"Kroppsøving og kroppsøvingsdidaktikk 2",
+                    "emnekode":"MGKP4200",
+                    "studiepoeng":15
+                },
+                {
+                    "id": 5,
+                    "semester": 9,
+                    "fagnavn":"Kroppsøving og kroppsøvingsdidaktikk 3",
+                    "emnekode":"MGKP5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "fag": "KH",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Kunst og håndverk 1, emne 1",
+                    "emnekode":"MGKH2100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 5,
+                    "fagnavn":"Kunst og håndverk 2, emne 2",
+                    "emnekode":"MGKH3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 3,
+                    "semester": 7,
+                    "fagnavn":"Fagdidaktikk: kunst og håndverk",
+                    "emnekode":"MFAGL4000",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 8,
+                    "fagnavn":"Praktisk estetisk prosjekt",
+                    "emnekode":"MFAGL4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 9,
+                    "fagnavn":"Prosjektutvikling og undervisningspraksis",
+                    "emnekode":"MFAGL5000",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "fag": "musikk",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Musikk 1, emne 1",
+                    "emnekode":"M5GMU2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"Musikk 1, emne 2",
+                    "emnekode":"M5GMU2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"Musikk 2, emne 3",
+                    "emnekode":"M5GMU3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Musikk og musikkdidaktikk 1",
+                    "emnekode":"MGMU4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Musikk og musikkdidaktikk 2",
+                    "emnekode":"MGMU4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Musikk og musikkdidaktikk 3",
+                    "emnekode":"MGMU5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "fag": "naturfag",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Naturfag 1, emne 1",
+                    "emnekode":"M5GNA2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"Naturfag 1, emne 2",
+                    "emnekode":"M5GNA2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"Naturfag 2, emne 3",
+                    "emnekode":"M5GNA3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Naturfag og naturfagdidaktikk 1",
+                    "emnekode":"MGNA4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Naturfag og naturfagdidaktikk 2",
+                    "emnekode":"MGNA4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Naturfag og naturfagdidaktikk 3",
+                    "emnekode":"MGNA5100",
+                    "studiepoeng": 15
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "fag": "samfunnsfag",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 4,
+                    "fagnavn":"Samfunnsfag 1, emne 1",
+                    "emnekode":"M5GSF2100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 2,
+                    "semester": 4,
+                    "fagnavn":"Samfunnsfag 1, emne 2",
+                    "emnekode":"M5GSF2200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 3,
+                    "semester": 5,
+                    "fagnavn":"Samfunnsfag 2, emne 3",
+                    "emnekode":"M5GSF3100",
+                    "studiepoeng":30
+                },
+                {
+                    "id": 4,
+                    "semester": 7,
+                    "fagnavn":"Samfunnsfag og samfunnsfagdidaktikk 1",
+                    "emnekode":"MGSF4100",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 8,
+                    "fagnavn":"Samfunnsfag og samfunnsfagdidaktikk 2",
+                    "emnekode":"MGSF4200",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 6,
+                    "semester": 9,
+                    "fagnavn":"Samfunnsfag og samfunnsfagdidaktikk 3",
+                    "emnekode":"MGSF5100",
+                    "studiepoeng": 15
+                },
+            ]
+        },
+        {
+            "id": 10,
+            "fag": "tegnspråk",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 5,
+                    "fagnavn":"Norsk tegnspråk 1",
+                    "emnekode":"MGNT3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 6,
+                    "fagnavn":"Norsk tegnspråk 2",
+                    "emnekode":"MGNT3200",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 3,
+                    "semester": 7,
+                    "fagnavn":"",
+                    "emnekode":"",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 4,
+                    "semester": 8,
+                    "fagnavn":"",
+                    "emnekode":"",
+                    "studiepoeng": 15
+                },
+                {
+                    "id": 5,
+                    "semester": 9,
+                    "fagnavn":"",
+                    "emnekode":"",
+                    "studiepoeng": 15
+                },
+            ]
+        },
+        {
+            "id": 11,
+            "fag": "prof_ped",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 6,
+                    "fagnavn":"Pedagogikk fordypning 1: Profesjonsrettet pedagogikk",
+                    "emnekode":"MGPE3100",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 9,
+                    "fagnavn":"Pedagogikk fordypning 2: Profesjonsrettet pedagogikk",
+                    "emnekode":"MGPE5100",
+                    "studiepoeng": 30
+                },
+
+            ]
+        },
+        {
+            "id": 12,
+            "fag": "dig_ped",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 6,
+                    "fagnavn":"Pedagogikk fordypning 1: Digitalt støttet pedagogikk",
+                    "emnekode":"MGPE3200",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 9,
+                    "fagnavn":"Pedagogikk fordypning 2: Digitalt støttet pedagogikk",
+                    "emnekode":"MGPE5200",
+                    "studiepoeng": 30
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "fag": "spes_ped",
+            "muligheter": [
+                {
+                    "id": 1,
+                    "semester": 6,
+                    "fagnavn":"Pedagogikk fordypning 1: Spesialpedagogikk",
+                    "emnekode":"MGPE3300",
+                    "studiepoeng": 30
+                },
+                {
+                    "id": 2,
+                    "semester": 9,
+                    "fagnavn":"Pedagogikk fordypning 2: Spesialpedagogikk",
+                    "emnekode":"MGPE5300",
+                    "studiepoeng": 30
+                }
+            ]
+        }
+]
+    }] 
+}
+  
+
+
+

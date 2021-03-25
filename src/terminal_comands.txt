@@ -1,0 +1,13 @@
+Pull command:
+git pull origin master
+
+git clone https://github.com/vickysmalls/Backend.git
+
+
+push command:
+git add -A
+git commit -m "placeholder_navn"
+git push -u origin master 
+
+skriv denne koden i terminalen til VS etter pull hvis applikasjonen ikke funker:
+npx json-server --watch data/db_test.json --port 9000

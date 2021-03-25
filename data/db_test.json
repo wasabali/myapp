@@ -1,0 +1,249 @@
+{
+  "klasser": [
+    {
+    "id": 1,
+    "klassetrinn": "1-7",
+    "obligFag": [
+      {
+        "id": 1,
+        "fag": "Naturfag"
+      },
+      {
+        "id": 2,
+        "fag": "Matte"
+      },
+      {
+        "id": 3,
+        "fag": "Engelsk"
+      }
+  
+    ],
+    "valgFag": [
+      {
+        "id": 1,
+        "fag": "Naturfag"
+      },
+      {
+        "id": 2,
+        "fag": "Matte"
+      },
+      {
+        "id": 3,
+        "fag": "Engelsk"
+      },
+      {
+        "id": 4,
+        "fag": "KRLE"
+      },
+      {
+        "id": 5,
+        "fag": "GYM"
+      }
+    ],
+    "masterFag": [
+      {
+        "id": 1,
+        "fag": "Naturfag",
+        "muligheter": [
+          {
+            "id": "1",
+            "semester": "4",
+            "fagnavn":"Naturfag 1, emne 1",
+            "emnekode":"M1GNO1100",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "2",
+            "semester": "5",
+            "fagnavn":"Naturfag 1, emne 2",
+            "emnekode":"M1GNO1200",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "3",
+            "semester": "6",
+            "fagnavn":"Naturfag 2, emne 3",
+            "emnekode":"M1GNO1300",
+            "studiepoeng":"10"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "fag": "Matte",
+        "muligheter": [
+          {
+            "id": "4",
+            "semester": "4",
+            "fagnavn":"Matte 1, emne 1",
+            "emnekode":"M1GNO1100",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "5",
+            "semester": "5",
+            "fagnavn":"Matte 1, emne 2",
+            "emnekode":"M1GNO1200",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "6",
+            "semester": "6",
+            "fagnavn":"Matte 2, emne 3",
+            "emnekode":"M1GNO1300",
+            "studiepoeng":"10"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "fag": "Engelsk",
+        "muligheter": [
+          {
+            "id": "7",
+            "semester": "4",
+            "fagnavn":"Engelsk 1, emne 1",
+            "emnekode":"M1GNO1100",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "8",
+            "semester": "5",
+            "fagnavn":"Engelsk 1, emne 2",
+            "emnekode":"M1GNO1200",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "9",
+            "semester": "6",
+            "fagnavn":"Engelsk 2, emne 3",
+            "emnekode":"M1GNO1300",
+            "studiepoeng":"10"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "fag": "KRLE",
+        "muligheter": [
+          {
+            "id": "10",
+            "semester": "4",
+            "fagnavn":"KRLE 1, emne 1",
+            "emnekode":"M1GNO1100",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "11",
+            "semester": "5",
+            "fagnavn":"KRLE 1, emne 2",
+            "emnekode":"M1GNO1200",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "12",
+            "semester": "6",
+            "fagnavn":"KRLE 2, emne 3",
+            "emnekode":"M1GNO1300",
+            "studiepoeng":"10"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "fag": "Pedagogikk",
+        "muligheter": [
+          {
+            "id": "13",
+            "semester": "4",
+            "fagnavn":"Pedagogikk 1, emne 1",
+            "emnekode":"M1GNO1100",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "14",
+            "semester": "5",
+            "fagnavn":"Pedagogikk 1, emne 2",
+            "emnekode":"M1GNO1200",
+            "studiepoeng":"10"
+          },
+          {
+            "id": "15",
+            "semester": "6",
+            "fagnavn":"Pedagogikk 2, emne 3",
+            "emnekode":"M1GNO1300",
+            "studiepoeng":"10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "klassetrinn": "5-10",
+    "obligFag": [
+      {
+        "id": 4,
+        "fag": "Naturfag"
+      },
+      {
+        "id": 5,
+        "fag": "Matte"
+      },
+      {
+        "id": 6,
+        "fag": "Engelsk"
+      }
+  
+    ],
+    "valgFag": [
+      {
+        "id": 6,
+        "fag": "Naturfag"
+      },
+      {
+        "id": 7,
+        "fag": "Matte"
+      },
+      {
+        "id": 8,
+        "fag": "Engelsk"
+      },
+      {
+        "id": 9,
+        "fag": "KRLE"
+      },
+      {
+        "id": 10,
+        "fag": "GYM"
+      }
+  
+    ],
+    "masterFag": [
+      {
+        "id": 6,
+        "fag": "Naturfag"
+      },
+      {
+        "id": 7,
+        "fag": "Matte"
+      },
+      {
+        "id": 8,
+        "fag": "Engelsk"
+      },
+      {
+        "id": 9,
+        "fag": "KRLE"
+      },
+      {
+        "id": 10,
+        "fag": "GYM"
+      }
+  
+    ]
+  }
+
+  ]
+  
+}

@@ -1,13 +1,104 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/*Header*/
+
+body{
+    margin: 0px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: work-sans;
 }
+
+main {
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#Innledning {
+    font-size: 30px;
+    line-height: 38px;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+#Venstre {
+    position: left;
+    text-align: left;
+    font-size: 20px;
+}
+
+#Liste {
+    position: left;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 75px;
+}
+
+#Bold {
+    font-weight: 700;
+    position: left;
+    text-align: left;
+    font-size: 22px;
+    padding-top: 10px;
+    padding-left: 75px;
+    padding-right: 75px;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 1px;
+    text-decoration: underline;
+    -webkit-text-decoration-color:#FFDC00; /* Safari */  
+    text-decoration-color: #FFDC00;
+}
+
+#Padding {
+    font-weight: 300;
+    font-family: Arial;
+    position: left;
+    text-align: left;
+    font-size: 18px;
+    line-height: 30px;
+    padding-left: 75px;
+    padding-right: 45px;
+}
+
+#Beskrivelse {
+    font-weight: 300;
+    font-family: Arial;
+    text-align: left;
+    font-size: 20px;
+    line-height: 30px;
+    padding-right: 45px;
+}
+
+#InnledningSlutt {
+    padding-bottom: 125px;
+}
+
+#Illustrasjon {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+Bold {
+    font-weight: 700;
+}
+
+#Gul {
+    background-color: #FFDC00;
+    float: center;
+    width: 1410px;
+    padding: 0;
+    margin-left: 265px;
+    margin-right: 265px;
+  }
+
+
+/* knapp*/

@@ -1,0 +1,46 @@
+.semester{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(50px, 50px);
+    width: 100px;
+}
+
+.sluttskjerm{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 10px;
+    grid-template-rows: 250px;
+}
+
+.videreknapp{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.card-container2{
+    padding-left: 340px;
+}
+
+.VeienVidere {
+    float: center;
+    padding: 0;
+    margin-left: 265px;
+    margin-right: 265px;
+}
+
+#BygningBilde {
+    float: left;
+    width: 300px;
+    padding: 0;
+    background: url(OsloMetBygning.jpeg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 200px;
+  }
+
+  #Gul {
+      background-color: #FFDC00;
+      color: black;
+  }

@@ -1,0 +1,79 @@
+.fag{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(50px, 50px);
+    width: 100px;
+    background-color: transparent;
+}
+
+
+.obligatoriske.semestre{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(2,auto);
+}
+
+.videreknapp{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 125px;
+    background-color: white;
+}
+
+#IkkeKnapp {
+    background-color: white;
+    height: 50px;
+    width: 200px; /* for å fikse bredden på knappene om man endrer tesksten */
+    letter-spacing: 0.1px;
+    line-height: 50px;
+    padding: fill;
+    font-size: 18px;
+    text-transform: normal;
+    font-weight: normal;
+    border: none;
+    font-family: Arial;
+    cursor: text;
+    display: ;
+    justify-content: center;
+    text-decoration: underline;
+    text-decoration-color: #FFDC00;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 3px;
+}
+
+#IkkeKnapp:hover {
+    background-color: white;
+    height: 50px;
+    width: 200px; /* for å fikse bredden på knappene om man endrer tesksten */
+    text-transform: normal;
+    text-decoration: underline;
+    text-decoration-color: #FFDC00;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 3px;
+    font-weight: bolder;
+    border: none;
+}
+
+
+h5 {
+    text-align: left;
+    font-size: 22px;
+    font-family: work-sans;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-color: #FFDC00;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 3px;
+    margin-top: 25px;
+  }
+
+  #SemesterBeskrivelse {
+      margin-top: 0px;
+      margin-bottom: 20px;
+      font-weight: 700;
+      font-size: 18px;
+      text-align: left;
+      font-family: Arial;
+  }
+
