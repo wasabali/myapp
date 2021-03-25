@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/myapp/static/js/main.7560743e.chunk.js",
-    "main.js.map": "/myapp/static/js/main.7560743e.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.0e3ff88f.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.0e3ff88f.js.map",
-    "static/js/2.7ce1188b.chunk.js": "/myapp/static/js/2.7ce1188b.chunk.js",
-    "static/js/2.7ce1188b.chunk.js.map": "/myapp/static/js/2.7ce1188b.chunk.js.map",
-    "static/js/3.835409ce.chunk.js": "/myapp/static/js/3.835409ce.chunk.js",
-    "static/js/3.835409ce.chunk.js.map": "/myapp/static/js/3.835409ce.chunk.js.map",
+    "main.css": "/myapp/static/css/main.6e253d76.chunk.css",
+    "main.js": "/myapp/static/js/main.5c8aeeda.chunk.js",
+    "main.js.map": "/myapp/static/js/main.5c8aeeda.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.b513998f.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.b513998f.js.map",
+    "static/css/2.150d169a.chunk.css": "/myapp/static/css/2.150d169a.chunk.css",
+    "static/js/2.a46a0707.chunk.js": "/myapp/static/js/2.a46a0707.chunk.js",
+    "static/js/2.a46a0707.chunk.js.map": "/myapp/static/js/2.a46a0707.chunk.js.map",
     "index.html": "/myapp/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/myapp/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.7ce1188b.chunk.js.LICENSE.txt": "/myapp/static/js/2.7ce1188b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/myapp/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/myapp/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6e253d76.chunk.css.map": "/myapp/static/css/main.6e253d76.chunk.css.map",
+    "static/js/2.a46a0707.chunk.js.LICENSE.txt": "/myapp/static/js/2.a46a0707.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/myapp/static/media/Bakgrunn.2061cafa.jpg",
+    "static/media/VelgKlassetrinn.css": "/myapp/static/media/undervisning.5dea802f.jpeg",
+    "static/media/Illustrasjon.62cda614.png": "/myapp/static/media/Illustrasjon.62cda614.png",
+    "static/media/LogoOsloMet.0aa23c2a.png": "/myapp/static/media/LogoOsloMet.0aa23c2a.png",
+    "static/media/OsloMet logo for nett.ad0c0550.png": "/myapp/static/media/OsloMet logo for nett.ad0c0550.png",
+    "static/media/muligheter.css": "/myapp/static/media/OsloMetBygning.90923fbd.jpeg",
+    "static/media/Praksis.36a9411b.jpeg": "/myapp/static/media/Praksis.36a9411b.jpeg",
+    "static/media/ToBilder.a810954e.png": "/myapp/static/media/ToBilder.a810954e.png",
+    "static/media/VelgEmne.5c24e1fe.png": "/myapp/static/media/VelgEmne.5c24e1fe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e3ff88f.js",
-    "static/js/2.7ce1188b.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.7560743e.chunk.js"
+    "static/js/runtime-main.b513998f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a46a0707.chunk.js",
+    "static/css/main.6e253d76.chunk.css",
+    "static/js/main.5c8aeeda.chunk.js"
   ]
 }
